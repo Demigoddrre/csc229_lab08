@@ -8,7 +8,6 @@ package lab08.csc229_lab08;
  *
  * @author dandr
  */
-import java.util.Scanner;
 
 class Node {
     int data;
